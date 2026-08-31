@@ -1,5 +1,5 @@
 # python-project
-Sure bhai — here’s a simple beginner-friendly `README.md`:
+
 
 # Python Basic Programs
 
